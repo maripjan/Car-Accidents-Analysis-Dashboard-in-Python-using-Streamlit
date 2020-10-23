@@ -7,11 +7,11 @@ related to vehicle accidents in NY.
 
 2. **In order to run the app:	
 
-	- [Open a terminal ] . 
+	- Open a terminal 	
 
-	b. If different, navigate to the directory where app.py is stored
+	-  If different, navigate to the directory where app.py is stored
 	
-	c. Type `streamlit run app.py`**
+	- Type `streamlit run app.py`**
 
 	
 
