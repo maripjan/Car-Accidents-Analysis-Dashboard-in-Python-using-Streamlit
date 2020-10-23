@@ -1,17 +1,18 @@
 # Car Accidents Analysis Dashboard using Streamlit
 
-Comments regarding app.py:
+**Comments regarding app.py:**
 
 1. The purpose of this project was to create a simple web app (dashboard) that allows users to interactively analyze data 
 related to vehicle accidents in NY.
 
-2. In order to run the app:	
+2. **In order to run the app:	
 
-	a. Open a terminal
+	- [Open a terminal ] . 
 
 	b. If different, navigate to the directory where app.py is stored
 	
-	c. Type `streamlit run app.py`
+	c. Type `streamlit run app.py`**
+
 	
 
 3. The list of all libraries and their respective versions that were used to create this project is given in requirements.txt file. Please refer to it in case of a necessity.
