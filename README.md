@@ -11,7 +11,7 @@ related to vehicle accidents in NY.
 
 	b. If different, navigate to the directory where app.py is stored
 	
-	c. Type "streamlit run app.py"
+	c. Type `streamlit run app.py`
 	
 
 3. The list of all libraries and their respective versions that were used to create this project is given in requirements.txt file. Please refer to it in case of a necessity.
