@@ -5,13 +5,13 @@
 1. The purpose of this project was to create a simple web app (dashboard) that allows users to interactively analyze data 
 related to vehicle accidents in NY.
 
-2. **In order to run the app:	
+2. **In order to run the app:**	
 
 	- Open a terminal 	
 
 	-  If different, navigate to the directory where app.py is stored
 	
-	- Type `streamlit run app.py`**
+	- Type `streamlit run app.py`
 
 	
 
