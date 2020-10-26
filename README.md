@@ -21,7 +21,7 @@ related to vehicle accidents in New York.
 
 Below are given actual screenshots showing how the web app looks like when it is displayed in the browser.
 
-`![](app_images/ny_app_1.JPG)`
+![](app_images/ny_app_1.JPG)
 
 
 
