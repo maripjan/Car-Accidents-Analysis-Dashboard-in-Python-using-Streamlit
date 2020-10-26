@@ -24,10 +24,15 @@ related to vehicle accidents in New York.
 <**Note: **> They were taken using Windows Snipping Tool, so the quality might not be the best. But at least this gives an overall picture of how the dashboard app looks like.
 
 ![](app_images/ny_app_1.JPG)
+<br/>
 ![](app_images/ny_app_2.JPG)
+<br/>
 ![](app_images/ny_app_3.JPG)
+<br/>
 ![](app_images/ny_app_4.JPG)
+<br/>
 ![](app_images/ny_app_5.JPG)
+<br/>
 ![](app_images/ny_app_6.JPG)
 
 
