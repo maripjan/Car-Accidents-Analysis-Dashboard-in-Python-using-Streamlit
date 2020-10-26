@@ -19,9 +19,16 @@ related to vehicle accidents in New York.
 
 4. Original CSV file includes more than 1.6 million incidents of vehicle collisions. However, for the sake of memory saving (as well as due to GitLab's 10MB limit for file uploading) only 100,000 rows were fed into the application as an input data.
 
-Below are given actual screenshots showing how the web app looks like when it is displayed in the browser.
+<**Below are given some actual screenshots showing how the web app looks like when it is displayed in the browser.**>
+
+<**Note: **> They were taken using Windows Snipping Tool, so the quality might not be the best. But at least this gives an overall picture of how the dashboard app looks like.
 
 ![](app_images/ny_app_1.JPG)
+![](app_images/ny_app_2.JPG)
+![](app_images/ny_app_3.JPG)
+![](app_images/ny_app_4.JPG)
+![](app_images/ny_app_5.JPG)
+![](app_images/ny_app_6.JPG)
 
 
 
