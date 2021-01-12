@@ -19,9 +19,10 @@ related to vehicle accidents in New York.
 
 4. Original CSV file includes more than 1.6 million incidents of vehicle collisions. However, for the sake of memory saving (since this app was created for demo purposes) only 100,000 rows were fed into the application as an input data. To obtain the full dataset, please visit NYC Open Data website [here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 
-<**Below are given some actual screenshots showing how the web app looks like when it is displayed in the browser.**>
+**Below are given some actual screenshots showing how the web app looks like when it is displayed in the browser.**
 
-<**Note: **> They were taken using Windows Snipping Tool, so the quality might not be the best. But at least this gives an overall picture of how the dashboard app looks like.
+
+**Note:** They were taken using Windows Snipping Tool, so the quality might not be the best. But at least this gives an overall picture of how the dashboard app looks like.
 
 ![](app_images/ny_app_1.JPG)
 <br/>
