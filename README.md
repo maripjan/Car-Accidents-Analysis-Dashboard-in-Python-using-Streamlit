@@ -1,7 +1,12 @@
 # Car Accidents Analysis Dashboard using Python's Streamlit Web Framework
 
+<br/>
 
-#### Background info: This idea of working through this project, as well as associated practical guidelines  were taken from Coursera's [Build a Data Science Web App with Streamlit and Python project](https://www.coursera.org/projects/data-science-streamlit-python) for which I earned a certificate for completing it.
+#### Background info: 
+
+This idea of working through this project, as well as associated practical guidelines  were taken from Coursera's [Build a Data Science Web App with Streamlit and Python project](https://www.coursera.org/projects/data-science-streamlit-python) for which I earned a certificate of accomplishement for completing it.
+
+<br/>
 
 **Comments regarding app.py:**
 
